@@ -8,7 +8,7 @@
 		<version>2.1.2.RELEASE</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.vasx</groupId>
+	<groupId>com.vasx.au</groupId>
 	<artifactId>springboot2</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>demo</name>
